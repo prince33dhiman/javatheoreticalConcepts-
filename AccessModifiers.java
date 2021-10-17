@@ -8,9 +8,9 @@ public class AccessModifiers {
                                     //can be used in the sub class
 
 
-    int age;        // it can be used within the package
-    public int age; // this variable can be acessed in the different packages
-    private int age; // this can not be accessed outside the particular class
+    //int age;        // it can be used within the package
+    //public int age; // this variable can be acessed in the different packages
+    //private int age; // this can not be accessed outside the particular class
 
 
     void getData(){                 // this is assumed as a default modifier
